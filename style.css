@@ -1,0 +1,26 @@
+.list{
+    width: 200px;
+}
+.list-element{
+    display: inline-block;
+    width: 100%;
+}
+.text{
+    float: left;
+    color:red;
+}
+.del{
+    float: right;
+}
+
+.controls{
+    width: 100%;
+}
+
+.form{
+    width: 200px;
+}
+.submit-btn{
+    margin-top: 5px;
+    margin-left: 30%;
+}
